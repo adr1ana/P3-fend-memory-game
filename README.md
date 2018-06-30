@@ -29,4 +29,4 @@ The gameplay rules are very simple: flip over two hidden cards at a time to loca
 - [x] **Timer** - When the player starts a game, a displayed timer also starts. Once the player wins the game, the timer stops.
 - [x] **Restart Button** - A restart button allows the player to reset the game board, the timer, and the rating.
 <br>:
-> Whole game and *design* made by me, Adriana Šafran
+> Design totally designed by me, Adriana Šafran
