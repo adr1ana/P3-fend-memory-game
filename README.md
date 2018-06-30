@@ -15,7 +15,7 @@ The gameplay rules are very simple: flip over two hidden cards at a time to loca
 - If the cards match, both cards stay flipped over.
 - If the cards do not match, both cards are flipped face down.
 - The game ends once all cards have been correctly matched.
-- Try it [live](https://adr1ana.github.io/P3-fend-memory-game/)
+- Try it [live](https://adr1ana.github.io/P3-fend-memory-game/) !
 
 ## Game Behavior
 **Memory Game Logic**
