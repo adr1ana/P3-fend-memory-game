@@ -2,8 +2,8 @@
 
 ## About project
 The 3rd Google-Udacity project called Memory Game Project is all about demonstrating my mastery of HTML, CSS, JavaScript, using
-DOM selectors and Event Listeners. 
-<br>It's a complete browser-based card matching game. 
+DOM selectors and Event Listeners. It's a complete browser-based card matching game. 
+<br> *Design inspired by upcoming vacation time and travelling :) Hope you will enjoy !*
 
 ## How to play?
 The game board consists of sixteen "cards" arranged in a grid. The deck is made up of eight different pairs of cards, 
